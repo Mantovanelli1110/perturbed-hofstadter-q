@@ -1,10 +1,6 @@
 # Paper
 
-Optional manuscript files live here.
+Manuscript:
 
-Suggested files:
-
-- `manuscript.tex`
-- `references.bib`
-- `compiled.pdf`
+Dyadic_Frequency_Laws__Clock_Dynamics__and_Self_Similarity_in_a_Perturbed_Hofstadter_Q_Recursion.pdf
 
