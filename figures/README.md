@@ -1,8 +1,6 @@
 # Figures
 
-Generated figure files live here.
-
-Expected outputs include:
+Generated figure files:
 
 - `firstvalues_4096.png`
 - `perturbed_hofstadter_safety_margin_clean.png`
