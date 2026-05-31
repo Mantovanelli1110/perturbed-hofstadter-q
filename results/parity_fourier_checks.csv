@@ -1,2 +1,6 @@
-block,parity,dominant_frequency,power
-
+k,all_L8_percent,parity_demeaned_L8_percent,even_L8_percent,odd_L8_percent,all_L16_percent,parity_demeaned_L16_percent,even_L16_percent,odd_L16_percent
+12,38.07,45.77,95.66,91.81,38.89,46.76,97.76,95.96
+14,38.4,46.1,95.72,90.32,39.22,47.09,97.77,96.24
+16,38.59,46.32,95.73,88.02,39.42,47.32,97.75,96.59
+18,38.73,46.49,95.73,87.69,39.57,47.5,97.75,95.96
+20,38.83,46.63,95.72,88.28,39.68,47.65,97.75,95.96

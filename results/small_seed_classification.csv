@@ -1,2 +1,12 @@
-q1,q2,status,notes
-
+initial_seed,behavior,description
+"(1,1,1)",survives,canonical trajectory
+"(2,1,1)",survives,merges into canonical orbit
+"(3,1,1)",survives,merges into canonical orbit
+"(1,3,3)",survives,shift-equivalent to canonical orbit
+"(1,1,2)",survives,explicit rigid orbit
+"(1,3,1)",survives,long-lived irregular trajectory
+"(2,1,2)",survives,long-lived irregular trajectory
+"(2,2,1)",survives,long-lived irregular trajectory
+"(2,3,1)",survives,long-lived irregular trajectory
+"(3,1,2)",survives,long-lived irregular trajectory
+most remaining seeds,terminate,rapid collapse
