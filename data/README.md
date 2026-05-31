@@ -1,6 +1,6 @@
 # Data
 
-Optional generated data files live here.
+Optional generated data files.
 
 Suggested files:
 
