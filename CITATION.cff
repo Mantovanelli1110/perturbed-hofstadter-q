@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "perturbed-hofstadter-q"
+version: 0.1.0
+date-released: 2026-05-31
+authors:
+  - family-names: "Mantovanelli"
+    given-names: "Marco"
+license: MIT
+repository-code: "https://github.com/Mantovanelli1110/perturbed-hofstadter-q"
